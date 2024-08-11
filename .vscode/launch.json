@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/carti420/Desktop/GitHub_Repos/ECE0202_Labs",
+      "program": "/Users/carti420/Desktop/GitHub_Repos/ECE0202_Labs/build/Debug/outDebug"
+    }
+  ]
+}
